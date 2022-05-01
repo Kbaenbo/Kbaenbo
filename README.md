@@ -1,4 +1,3 @@
 Just an ordinary middle schooler
-Discord : Kbaenbo#0041
-
+Discord : creamn#0030
 I'm using Python
